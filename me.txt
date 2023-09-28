@@ -1,3 +1,4 @@
 My name is Tyson Watson.
-I am 19 years old.
+I am 18 years old.
 I am from Galesburg, Michigan.
+I am a Data Science major.
